@@ -8,7 +8,7 @@ An end-to-end data analysis project focusing on the Egyptian used car market. Th
 ## 🛠️ Project Structure
 The repository is organized cleanly and professionally into the following directories:
 * **`data/`**: Contains the raw scraped dataset (`hatla2ee_cars_august_2025.csv`) and the fully cleaned dataset (`cleaned_data.xlsx`).
-* **`jupyter_notebooks/`**: Detailed Python scripts covering Exploratory Data Analysis (EDA) and data visualization using Pandas, Seaborn, and Matplotlib.
+* **`python-code/`**: Detailed Python scripts covering Exploratory Data Analysis (EDA) and data visualization using Pandas, Seaborn, and Matplotlib.
 * **`dashboard/`**: The interactive Power BI Dashboard file (`Dashboard.pbix`) containing the data model and visual reports.
 * **`presentation/`**: Final project presentation slides (`PDF/PPTX`) and key visualization exports (`PNG`).
 
